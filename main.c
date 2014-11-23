@@ -57,7 +57,7 @@ int main(void){
     vingere(pw, message);
 //    vingere(pw, message);
     printf("%s\n",message);
-    de_git vingere(pw, message);
+    de_vingere(pw, message);
     printf("%s\n",message);
     return 0;
 }
